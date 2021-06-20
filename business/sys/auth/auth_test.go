@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ardanlabs/service/business/sys/auth"
 	"github.com/dgrijalva/jwt-go/v4"
+	"github.com/guldenzeynolla/service/business/sys/auth"
 )
 
 // Success and failure markers.

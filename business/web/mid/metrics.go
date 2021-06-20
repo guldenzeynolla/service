@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"runtime"
 
-	"github.com/ardanlabs/service/business/sys/metrics"
-	"github.com/ardanlabs/service/foundation/web"
+	"github.com/guldenzeynolla/service/business/sys/metrics"
+	"github.com/guldenzeynolla/service/foundation/web"
 )
 
 // =============================================================================

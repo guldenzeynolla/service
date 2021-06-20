@@ -9,14 +9,14 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ardanlabs/service/app/sales-api/handlers"
-	"github.com/ardanlabs/service/business/data/tests"
-	"github.com/ardanlabs/service/business/data/user"
-	"github.com/ardanlabs/service/business/sys/auth"
-	"github.com/ardanlabs/service/business/sys/metrics"
-	"github.com/ardanlabs/service/business/sys/validate"
 	"github.com/google/go-cmp/cmp"
 	"github.com/google/go-cmp/cmp/cmpopts"
+	"github.com/guldenzeynolla/service/app/sales-api/handlers"
+	"github.com/guldenzeynolla/service/business/data/tests"
+	"github.com/guldenzeynolla/service/business/data/user"
+	"github.com/guldenzeynolla/service/business/sys/auth"
+	"github.com/guldenzeynolla/service/business/sys/metrics"
+	"github.com/guldenzeynolla/service/business/sys/validate"
 )
 
 // UserTests holds methods for each user subtest. This type allows passing

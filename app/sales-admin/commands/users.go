@@ -7,8 +7,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/ardanlabs/service/business/data/user"
-	"github.com/ardanlabs/service/foundation/database"
+	"github.com/guldenzeynolla/service/business/data/user"
+	"github.com/guldenzeynolla/service/foundation/database"
 	"github.com/pkg/errors"
 	"go.uber.org/zap"
 )

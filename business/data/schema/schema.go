@@ -6,7 +6,7 @@ import (
 	_ "embed" // Calls init function.
 
 	"github.com/ardanlabs/darwin"
-	"github.com/ardanlabs/service/foundation/database"
+	"github.com/guldenzeynolla/service/foundation/database"
 	"github.com/jmoiron/sqlx"
 	"github.com/pkg/errors"
 )

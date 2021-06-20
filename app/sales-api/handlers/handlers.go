@@ -9,12 +9,12 @@ import (
 	"net/http/pprof"
 	"os"
 
-	"github.com/ardanlabs/service/business/data/product"
-	"github.com/ardanlabs/service/business/data/user"
-	"github.com/ardanlabs/service/business/sys/auth"
-	"github.com/ardanlabs/service/business/sys/metrics"
-	"github.com/ardanlabs/service/business/web/mid"
-	"github.com/ardanlabs/service/foundation/web"
+	"github.com/guldenzeynolla/service/business/data/product"
+	"github.com/guldenzeynolla/service/business/data/user"
+	"github.com/guldenzeynolla/service/business/sys/auth"
+	"github.com/guldenzeynolla/service/business/sys/metrics"
+	"github.com/guldenzeynolla/service/business/web/mid"
+	"github.com/guldenzeynolla/service/foundation/web"
 	"github.com/jmoiron/sqlx"
 	"go.uber.org/zap"
 )

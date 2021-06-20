@@ -4,8 +4,8 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/ardanlabs/service/business/sys/metrics"
-	"github.com/ardanlabs/service/foundation/web"
+	"github.com/guldenzeynolla/service/business/sys/metrics"
+	"github.com/guldenzeynolla/service/foundation/web"
 	"github.com/pkg/errors"
 )
 

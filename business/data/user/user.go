@@ -5,10 +5,10 @@ import (
 	"context"
 	"time"
 
-	"github.com/ardanlabs/service/business/sys/auth"
-	"github.com/ardanlabs/service/business/sys/validate"
-	"github.com/ardanlabs/service/foundation/database"
 	"github.com/dgrijalva/jwt-go/v4"
+	"github.com/guldenzeynolla/service/business/sys/auth"
+	"github.com/guldenzeynolla/service/business/sys/validate"
+	"github.com/guldenzeynolla/service/foundation/database"
 	"github.com/jmoiron/sqlx"
 	"github.com/pkg/errors"
 	"go.opentelemetry.io/otel/trace"

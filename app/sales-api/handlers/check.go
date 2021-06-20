@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/ardanlabs/service/foundation/database"
+	"github.com/guldenzeynolla/service/foundation/database"
 	"github.com/jmoiron/sqlx"
 	"go.uber.org/zap"
 )

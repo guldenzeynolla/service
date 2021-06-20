@@ -5,13 +5,13 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ardanlabs/service/business/data/schema"
-	"github.com/ardanlabs/service/business/data/tests"
-	"github.com/ardanlabs/service/business/data/user"
-	"github.com/ardanlabs/service/business/sys/auth"
-	"github.com/ardanlabs/service/foundation/database"
 	"github.com/dgrijalva/jwt-go/v4"
 	"github.com/google/go-cmp/cmp"
+	"github.com/guldenzeynolla/service/business/data/schema"
+	"github.com/guldenzeynolla/service/business/data/tests"
+	"github.com/guldenzeynolla/service/business/data/user"
+	"github.com/guldenzeynolla/service/business/sys/auth"
+	"github.com/guldenzeynolla/service/foundation/database"
 	"github.com/pkg/errors"
 )
 

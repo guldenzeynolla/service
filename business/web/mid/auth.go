@@ -6,9 +6,9 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/ardanlabs/service/business/sys/auth"
-	"github.com/ardanlabs/service/business/sys/validate"
-	"github.com/ardanlabs/service/foundation/web"
+	"github.com/guldenzeynolla/service/business/sys/auth"
+	"github.com/guldenzeynolla/service/business/sys/validate"
+	"github.com/guldenzeynolla/service/foundation/web"
 	"github.com/pkg/errors"
 )
 

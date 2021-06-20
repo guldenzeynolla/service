@@ -6,11 +6,11 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/ardanlabs/service/business/data/product"
-	"github.com/ardanlabs/service/business/sys/auth"
-	"github.com/ardanlabs/service/business/sys/validate"
-	"github.com/ardanlabs/service/foundation/database"
-	"github.com/ardanlabs/service/foundation/web"
+	"github.com/guldenzeynolla/service/business/data/product"
+	"github.com/guldenzeynolla/service/business/sys/auth"
+	"github.com/guldenzeynolla/service/business/sys/validate"
+	"github.com/guldenzeynolla/service/foundation/database"
+	"github.com/guldenzeynolla/service/foundation/web"
 	"github.com/pkg/errors"
 	"go.opentelemetry.io/otel/trace"
 )

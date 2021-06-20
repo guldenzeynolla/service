@@ -9,13 +9,13 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ardanlabs/service/app/sales-api/handlers"
-	"github.com/ardanlabs/service/business/data/product"
-	"github.com/ardanlabs/service/business/data/tests"
-	"github.com/ardanlabs/service/business/sys/metrics"
-	"github.com/ardanlabs/service/business/sys/validate"
 	"github.com/google/go-cmp/cmp"
 	"github.com/google/go-cmp/cmp/cmpopts"
+	"github.com/guldenzeynolla/service/app/sales-api/handlers"
+	"github.com/guldenzeynolla/service/business/data/product"
+	"github.com/guldenzeynolla/service/business/data/tests"
+	"github.com/guldenzeynolla/service/business/sys/metrics"
+	"github.com/guldenzeynolla/service/business/sys/validate"
 )
 
 // ProductTests holds methods for each product subtest. This type allows

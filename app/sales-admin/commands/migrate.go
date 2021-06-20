@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/ardanlabs/service/business/data/schema"
-	"github.com/ardanlabs/service/foundation/database"
+	"github.com/guldenzeynolla/service/business/data/schema"
+	"github.com/guldenzeynolla/service/foundation/database"
 	"github.com/pkg/errors"
 )
 
